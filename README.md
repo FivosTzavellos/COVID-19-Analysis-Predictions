@@ -6,4 +6,7 @@ In the Plots-Visualisations Notebook we extract and preprocess data concerning C
 
 In the Plots-Predictions Notebook we use data for confirmed cases, deaths and recoveries per day per country, again plotting some instances of the preprocessed data and using Support Vector Machines and Linear Regression to predict the number of cases for the next 10 days.
 
+In the Covid-19 Sentiment Analysis Notebook
+
+
 Co-authored by Athanasios Papanikolaou
